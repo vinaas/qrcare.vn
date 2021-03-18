@@ -4430,8 +4430,13 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-srZzf9A2bo {
+  padding-top: 105px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-srYRSvqyky {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 45px;
   background-color: #efefef;
 }
